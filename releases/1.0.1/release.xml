@@ -1,0 +1,15 @@
+<release version="1.0.1">
+  <title>SIGNATURES BILL v1.0.1 Release</title>
+  <summary>Maintenance release verifying update subsystem.</summary>
+  <changes>
+    <change>Maintenance and update subsystem verification.</change>
+  </changes>
+  <requirements>
+    <minVersion>1.0.0</minVersion>
+  </requirements>
+  <package>
+    <file>SIGNATURES-BILL-v1.0.1-win-x64.zip</file>
+    <sha256>94777da8858aa8643b29b841edfffaadb0b89442cec65451a408578502283c40</sha256>
+    <signature>pCpqTnBdtO9Pf0oxrNfYevbjW14f0+OGhQNcochJit7Rh2HnOmvIqnxbhXYXHT0TSbkZ7HkUfiopBhtbVdB0B2AcODOsfxkPJm21nlzfW82MRFH1FX8ZjDjUvk8jO2wshbkuIdOX8CeBRLX+HClAchXgGUYoYYoZ+fOSBuznu/IYEd4dXaKZlGDbIRcuKfjrN8JLYk30nwv7yl1X47hNYOcQMwbn38oRjweX6Bspu3s4XJYKxeS4xT+BJMsE/IfNpAh6jX7lF08nt3GsUNHO6jq4pB2X7T/Vprv1hf3aHMee4H5i7wZQ9Hfu8P8vkgb1iOrb5dRKgMf49nF3xQJR0A==</signature>
+  </package>
+</release>

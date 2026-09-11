@@ -1,13 +1,13 @@
 {
-  "releases": [
+  "Releases": [
     {
-      "version": "1.0.0",
-      "channel": "stable",
-      "title": "SIGNATURES BILL Production Release",
-      "releasedAt": "2026-09-12T00:00:00Z",
-      "minimumVersion": "1.0.0",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "signature": null
+      "Version": "1.0.1",
+      "Channel": "stable",
+      "Title": "SIGNATURES BILL v1.0.1 Release",
+      "ReleasedAt": "2026-09-11T20:11:06.7070887Z",
+      "MinimumVersion": "1.0.0",
+      "Sha256": "94777da8858aa8643b29b841edfffaadb0b89442cec65451a408578502283c40",
+      "Signature": "pCpqTnBdtO9Pf0oxrNfYevbjW14f0\u002BOGhQNcochJit7Rh2HnOmvIqnxbhXYXHT0TSbkZ7HkUfiopBhtbVdB0B2AcODOsfxkPJm21nlzfW82MRFH1FX8ZjDjUvk8jO2wshbkuIdOX8CeBRLX\u002BHClAchXgGUYoYYoZ\u002BfOSBuznu/IYEd4dXaKZlGDbIRcuKfjrN8JLYk30nwv7yl1X47hNYOcQMwbn38oRjweX6Bspu3s4XJYKxeS4xT\u002BBJMsE/IfNpAh6jX7lF08nt3GsUNHO6jq4pB2X7T/Vprv1hf3aHMee4H5i7wZQ9Hfu8P8vkgb1iOrb5dRKgMf49nF3xQJR0A=="
     }
   ]
 }

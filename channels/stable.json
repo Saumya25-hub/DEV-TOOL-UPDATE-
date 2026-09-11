@@ -1,7 +1,7 @@
 {
-  "channel": "stable",
-  "latestVersion": "1.0.0",
-  "updatedAt": "2026-09-12T00:00:00Z",
-  "manifestUrl": "https://raw.githubusercontent.com/Saumya25-hub/DEV-TOOL-UPDATE-/main/releases/1.0.0/manifest.json",
-  "releaseNotesUrl": "https://raw.githubusercontent.com/Saumya25-hub/DEV-TOOL-UPDATE-/main/releases/1.0.0/release-notes.md"
+  "Channel": "stable",
+  "LatestVersion": "1.0.1",
+  "UpdatedAt": "2026-09-11T20:11:06.7003328Z",
+  "ManifestUrl": "https://raw.githubusercontent.com/Saumya25-hub/DEV-TOOL-UPDATE-/main/releases/1.0.1/manifest.json",
+  "ReleaseNotesUrl": "https://raw.githubusercontent.com/Saumya25-hub/DEV-TOOL-UPDATE-/main/releases/1.0.1/release-notes.md"
 }
