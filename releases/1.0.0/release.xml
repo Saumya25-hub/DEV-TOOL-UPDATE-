@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<release version="1.0.0">
+  <title>SIGNATURES BILL Production Release</title>
+  <summary>Initial production desktop invoicing and business billing platform.</summary>
+  <changes>
+    <change>Professional GST Invoicing &amp; Billing.</change>
+    <change>Party Ledgers &amp; Double-Entry Accounting.</change>
+    <change>Google Drive Cloud Backup Safety.</change>
+    <change>Water-Wave Animated Security Unlock.</change>
+  </changes>
+  <requirements>
+    <minVersion>1.0.0</minVersion>
+  </requirements>
+  <package>
+    <file>SIGNATURES-BILL-v1.0.0-win-x64.zip</file>
+    <sha256>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</sha256>
+  </package>
+</release>

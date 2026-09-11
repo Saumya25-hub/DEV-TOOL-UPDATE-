@@ -1,0 +1,16 @@
+{
+  "product": "SIGNATURES BILL",
+  "channel": "stable",
+  "version": "1.0.0",
+  "minimumSupportedVersion": "1.0.0",
+  "releaseDate": "2026-09-12T00:00:00Z",
+  "releaseTitle": "SIGNATURES BILL Production Release",
+  "releaseNotes": "Initial production desktop invoicing and business billing platform.",
+  "packageUrl": "https://github.com/Saumya25-hub/-Signatures-Bill-V1/releases/download/v1.0.0/SIGNATURES-BILL-v1.0.0-win-x64.zip",
+  "packageFileName": "SIGNATURES-BILL-v1.0.0-win-x64.zip",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "signature": null,
+  "packageSize": 0,
+  "releaseNotesUrl": "https://raw.githubusercontent.com/Saumya25-hub/DEV-TOOL-UPDATE-/main/releases/1.0.0/release-notes.md",
+  "mandatory": false
+}
